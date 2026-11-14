@@ -1,3 +1,2 @@
-PROBLEM: price feed old (131.2 min)
-V1 CHECK | MT5 on | feed 131.2 min | log 4.9 min | alerts off | failover standby | 14:39 UTC
-t=1794667173
+V1 OK | MT5 on | feed 0.1 min | log 4.7 min | alerts off | failover standby | 14:49 UTC
+t=1794667773
