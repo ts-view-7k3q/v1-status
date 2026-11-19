@@ -1,2 +1,2 @@
-V1 OK | MT5 on | feed 0.1 min | log 2.0 min | alerts off | failover standby | 18:09 UTC
-t=1795111776
+V1 OK | MT5 on | feed 0.2 min | log 1.4 min | alerts off | failover standby | 18:19 UTC
+t=1795112378
