@@ -1,3 +1,3 @@
-PROBLEM: V1 log silent 1779.1 min
-V1 CHECK | MT5 on | feed 0.3 min | log 1779.1 min | alerts off | failover standby | 07:09 UTC
-t=1795504174
+PROBLEM: V1 log silent 1789.1 min
+V1 CHECK | MT5 on | feed 0.3 min | log 1789.1 min | alerts off | failover standby | 07:19 UTC
+t=1795504774
